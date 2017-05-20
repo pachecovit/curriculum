@@ -15,7 +15,7 @@ Florianópolis/SC - Brazil
 
 ---
 
-## Competências
+## Skills
 
 **Frontend:**
 * HTML5 & CSS3
