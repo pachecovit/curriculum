@@ -3,7 +3,7 @@ Florianópolis/SC - Brazil
 
 ---
 
-####Frontend Developer
+#### Frontend Developer
 
 **Phone:** +55 48 98438-4106
 
@@ -20,7 +20,7 @@ Florianópolis/SC - Brazil
 **Frontend:**
 * HTML5 & CSS3
 * Preprocessors (SASS, LESS & Stylus)
-* Frameworks (Bootstrap, Foundation, MaterializeCSS, PureCSS, UIKit)
+* Frameworks (Bootstrap, Foundation, MaterializeCSS, PureCSS, UIKit and many others...)
 * Responsive Design
 * Automate tools (Grunt & Gulp)
 * JavaScript
@@ -43,15 +43,14 @@ Florianópolis/SC - Brazil
 
 **Others:**
 * Fabric (Deploy automation)
-* Design Patterns *(Modelo MVC)*
-* Version Control System *(git)*
+* Design Patterns *(MVC Model)*
+* Version Control System *(GIT)*
 * SEO knowledge
 * Design & Software architecture knowledge
 * Kanban & Scrum
 
 
 **Others programming languages experiences:**
-* 
 
 
 **Knowledge:**
