@@ -21,11 +21,9 @@ Florianópolis/SC - Brazil
 * HTML5 & CSS3
 * Preprocessors (SASS, LESS & Stylus)
 * Frameworks (Bootstrap, Foundation, MaterializeCSS, PureCSS, UIKit and many others...)
-* Responsive Design
+* Responsive Design (RWD)
 * Automate tools (Grunt & Gulp)
-* JavaScript
-* jQuery
-* AngularJS
+* JavaScript (+jQuery, AngularJS, Vue, React)
 
 
 **Backend:**
