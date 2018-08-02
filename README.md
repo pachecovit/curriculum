@@ -38,8 +38,9 @@
 
 
 **Others:**
-* AWS
+* Amazon Web Services
 * Heroku
+* Docker
 * Fabric (Deploy automation)
 * Design Patterns *(MVC Model)*
 * Version Control System *(GIT)*
@@ -49,12 +50,10 @@
 * MacOS, Linux
 
 
-**Others programming languages experiences:**
-
-
-**Knowledge:**
+**Experiences:**
 * As freelancer designer, I have worked with Photoshop, Illustrator, CorelDraw & Experience Design (xD).
 * As information technology technician, I have skills with hardwares and softwares (Installation and configurations).
+* As full-stack developer, I have worked with Vue, Laravel, Docker and some WordPress projects.
 
 ---
 
