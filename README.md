@@ -25,7 +25,7 @@
 
 
 **Backend:**
-* PHP (+Laravel, CakePHP, ZendFramework)
+* PHP (+Laravel, CakePHP, ZendFramework, WordPress)
 * Python (+Django)
 * NodeJS
 * Object Oriented Programming (OOP)
@@ -38,6 +38,8 @@
 
 
 **Others:**
+* AWS
+* Heroku
 * Fabric (Deploy automation)
 * Design Patterns *(MVC Model)*
 * Version Control System *(GIT)*
