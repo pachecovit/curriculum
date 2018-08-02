@@ -1,5 +1,5 @@
-# Cleber Pacheco
-## FRONT-END DEVELOPER / Florianópolis/SC - Brazil
+# Cleber Pacheco | Front-end Developer
+## Florianópolis/SC - Brazil
 
 ---
 
@@ -47,7 +47,7 @@
 * SEO knowledge
 * Design & Software architecture knowledge
 * Kanban & Scrum
-* MacOS, Linux
+* MacOS & Linux (Commands, terminal)
 
 
 **Experiences:**
