@@ -60,7 +60,7 @@
 
 ## Additional informations
 
-* 
+* Languages (Portuguese, english, spanish)
 * 
 * 
 * 
