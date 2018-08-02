@@ -46,6 +46,7 @@
 * SEO knowledge
 * Design & Software architecture knowledge
 * Kanban & Scrum
+* MacOS, Linux
 
 
 **Others programming languages experiences:**
