@@ -1,9 +1,7 @@
 # Cleber Pacheco
-Florianópolis/SC - Brazil
+## FRONT-END DEVELOPER / Florianópolis/SC - Brazil
 
 ---
-
-#### Frontend Developer
 
 **Phone:** +55 48 98438-4106
 
