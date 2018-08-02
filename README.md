@@ -41,6 +41,7 @@
 * Amazon Web Services
 * Heroku
 * Docker
+* VTEX
 * Fabric (Deploy automation)
 * Design Patterns *(MVC Model)*
 * Version Control System *(GIT)*
@@ -68,8 +69,12 @@
 
 ## Professional Experience
 
-* **Personal Projects**
-> 
+* **Main developer of OP9 (https://www.op9.com.br/), developed with WordPress, Mysql and AWS (2018)**
+* **Main developer of SkinBeauty from Florianópolis/BR (http://skinbeautyflorianopolis.com.br/), developed with WordPress and MySql (2018)**
+* **Main developer of Engie Minha Energia Livre (http://minhaenergialivre.com.br/), WordPress and MariaDB (2017)**
+* **Main developer of Busque Seguro (http://busqueseguro.com.br/), WordPress and MariaDB (2017)**
+* **Main developer of Concurso Universitário SEBRAE/SC (http://concurso.sebrae-sc.com.br/), WordPress and MariaDB (2017)**
+* **Main developer of John John Denim ecommerce (https://johnjohndenim.com), developed with VTEX (2016)**
 
 
 ---
