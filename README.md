@@ -28,7 +28,6 @@
 * PHP (+Laravel, CakePHP, ZendFramework, WordPress)
 * Python (+Django)
 * NodeJS
-* Object Oriented Programming (OOP)
 * Apache/Nginx
 
 **Databases:**
