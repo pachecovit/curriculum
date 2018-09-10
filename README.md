@@ -21,7 +21,7 @@
 * Frameworks (Bootstrap, Foundation, MaterializeCSS, PureCSS, UIKit and many others...)
 * Responsive Design (RWD)
 * Automate tools (Grunt & Gulp)
-* JavaScript (+jQuery, AngularJS, Vue, React)
+* JavaScript (+jQuery, AngularJS, Vue, ReactJS)
 
 
 **Backend:**
